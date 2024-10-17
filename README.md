@@ -1,20 +1,19 @@
 ## Getting Started
 
-First, run the development server:
+To install package run 
+```
+npm install
+```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+To run the development server:
+
+```
+next dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-App home page is at /cakes (User will be redirected automatically)
+App's home page is at /cakes (User will be redirected automatically)
 
 other pages
 
